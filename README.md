@@ -1,6 +1,7 @@
-# Project Name
+# Sagano
 
 ## Responsive eCommerce Website
+## View it [here](https://saganodotstore.netlify.app/)
 
 ### Overview
 
@@ -54,11 +55,3 @@ This project aims to create a dynamic and responsive eCommerce website with key 
 - CSS
 - JavaScript/TypeScript
 - Razorpay API
-
-### Contribution Guidelines
-
-Feel free to contribute by creating issues, submitting pull requests, or suggesting improvements. See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
-
-### License
-
-This project is licensed under the [MIT License](LICENSE).
